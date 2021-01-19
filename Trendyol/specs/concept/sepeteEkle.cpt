@@ -1,0 +1,42 @@
+#Trendyol anasayfasina git
+*"https://www.trendyol.com/" sayfasina git
+*"3" saniye bekle
+*"ilkPencereKapat" elementine tikla
+*Sayfanin acildiğindan emin ol
+
+#<kullaniciAdi> ve <sifre> ile giris yap
+*"hesabim" elementinin üzerine gel
+*"3" saniye bekle
+*"girisYap" elementine tikla
+*"3" saniye bekle
+*"emailAlani" elementi var mi
+*"emailAlani" elementine <kullaniciAdi> gir
+*"sifreAlani" elementine <sifre> gir
+*"girisYapBtn" elementi var mi
+*"girisYapBtn" elementine tikla
+*"3" saniye bekle
+*"girisSonrasıPencereKapat" elementine tikla
+
+#<hesapSahibi> Hesap adını kontrol et
+*"hesabim" elementinin üzerine gel
+*"2" saniye bekle
+*"hesapAdi" elementi var mi
+*"hesapAdi" elementinde yazan isim ile <hesapSahibi>'ni karşılaştır
+
+#<urunAdi> urununu ara
+*"aramaKutusu" elementi var mi
+*"aramaKutusu" elementine <urunAdi> gir
+*"aramaKutusu" elementinde enter'a tikla
+*"2" saniye bekle
+
+#Arama sonucunda cikan urunlerden ilkini sepete ekle
+*"aramaSonucu" element listesi var mi
+*"aramaSonucu" element listesindeki ilk elemente tıkla
+*"2" saniye bekle
+*"sepeteEkleBtn" elementi var mi
+*"2" saniye bekle
+*"sepeteEkleBtn" elementine tikla
+*"2" saniye bekle
+*"sepet" elementi var mi
+*"sepet" elementinin üzerine gel
+*"sepetUrun" urun adedini kontrol et

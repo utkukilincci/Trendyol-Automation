@@ -1,0 +1,72 @@
+[
+  {
+    "key": "girisYap",
+    "value": "//div[@class='login-button']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabim",
+    "value": "//div[@class='link account-user']",
+    "type": "xpath"
+  },
+  {
+    "key": "emailAlani",
+    "value": "login-email",
+    "type": "id"
+  },
+  {
+    "key": "sifreAlani",
+    "value": "login-password-input",
+    "type": "id"
+  },
+  {
+    "key": "girisYapBtn",
+    "value": "//button[@type='submit']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilkPencereKapat",
+    "value": "//a[@title='Close']",
+    "type": "xpath"
+  },
+  {
+    "key": "girisSonrasıPencereKapat",
+    "value": "//div[@title='Kapat']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesapAdi",
+    "value": "//p[@class='user-name']",
+    "type": "xpath"
+  },
+  {
+    "key": "aramaKutusu",
+    "value": "search-box",
+    "type": "className"
+  },
+  {
+    "key": "aramaButonu",
+    "value": "//i[@class='search-icon']",
+    "type": "xpath"
+  },
+  {
+    "key": "aramaSonucu",
+    "value": "prdct-cntnr-wrppr",
+    "type": "className"
+  },
+  {
+    "key": "sepeteEkleBtn",
+    "value": "//button[@class='pr-in-btn add-to-bs']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepet",
+    "value": "//a[@class='link account-basket']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetUrun",
+    "value": "//div[@class='slideUpBox passive']",
+    "type": "xpath"
+  }
+]
